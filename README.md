@@ -56,7 +56,7 @@ app/src/main/res/
 
 1. Clone this repository:
    ```bash
-   git clone git@github.com:mamasalanang-gerald/DIT3-1-GeraldMamasalanang-Act07.git
+   git clone git@github.com:victorioso-daniel/DIT3-1-DanielVictorioso-Act09.git
    ```
 
 2. Open the project in Android Studio
@@ -98,7 +98,7 @@ Screenshots should be placed in the `/activity7/` folder:
 
 ```bash
 # Clone the repository
-git clone git@github.com:mamasalanang-gerald/DIT3-1-GeraldMamasalanang-Act07.git
+git clone git@github.com:victorioso-daniel/DIT3-1-DanielVictorioso-Act09.git
 
 # Open in Android Studio
 # Build → Make Project
